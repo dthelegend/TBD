@@ -1,0 +1,3 @@
+/home/daudi/Code/tbd/cmake-build-debug/CMakeFiles/tbd.dir
+/home/daudi/Code/tbd/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/daudi/Code/tbd/cmake-build-debug/CMakeFiles/rebuild_cache.dir
